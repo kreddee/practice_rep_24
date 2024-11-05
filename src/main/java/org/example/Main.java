@@ -8,7 +8,7 @@ public class Main {
                     return new int[]{i, j};
                 }
             }
-        }
+        } 
         throw new IllegalArgumentException("No two sum solution");
     }
 
